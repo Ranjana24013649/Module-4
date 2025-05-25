@@ -13,6 +13,21 @@ To write a Python program that handles an **IndexError** when trying to access a
 ## 🧾 Program
 Add code here
 
+lis=[5, 10, 20]
+
+try:
+
+    print(lis[5])
+    
+except:
+
+    print("You're out of list range")
+    
 ## Output
 
+![441162772-ef9bddaf-28d9-4441-810e-08f97a40d0dc](https://github.com/user-attachments/assets/9b60e279-b539-4281-bfce-4b0d192d28d8)
+
+
 ## Result
+
+Thus the program that handles an IndexError when trying to access an element beyond the available range of a list is executed successfully.
